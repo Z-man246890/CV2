@@ -1,0 +1,136 @@
+
+body {
+    color: #40515E;
+    margin: 0;
+    text-align:center;
+    font-family: 'merriweather', serif ;
+    font-weight: normal;
+    background-color:#B1D7B4 ;
+} 
+
+
+hr {border-style: none ; border-top-style:dotted;
+    border-color:#11999E ;
+    border-width: 5px;
+    width:5%
+    margin:100px auto;
+}
+
+
+h1 {
+    margin: 50px auto 0 ;
+    font-family:'sacremento', cursive;
+    font-size:60px ;
+    color: #66BFBF;
+    line-height: 2;
+    
+}
+
+h2 {margin-top:0;
+font-size: 2.5rem;
+color: #66BFBF;
+padding-bottom: 10;}
+
+h3 {color: #11999E;}
+
+p {line-height: 2;}
+
+a {color: #11999e;
+font-family: 'Monsterat',sans-serif;
+margin:10px 20px;
+text-decoration: none;}
+
+a:hover {color:#B08BBB;}
+
+
+
+.top-container {
+    background-color:#10A19D;
+    position: relative;
+    padding-top: 100px;
+} 
+
+.middle-container {margin :100p 0;}
+
+.bottom-container {background-color:#10A19D ;
+padding: 60px 0 20px;}
+
+
+.skill-row {width: 50;
+margin: 100px auto 100px auto;
+text-align: left;
+}
+
+.intro {width:30%;
+    margin:auto;}
+    
+
+.top-cloud {position: relative;
+top: 40px;
+left: 300px;}
+
+.mountain {position: relative;
+top :5px;
+right:100px;}
+
+.bottom-cloud {position: relative;
+bottom: 100px;
+right:250px; }
+
+.tent {position: relative;
+width: 25%;}
+
+
+.end {width: 40%;
+margin: 40px auto 60px;}
+
+
+
+.warning-img {width: 25%;
+    float: left;
+ margin-right:50px ;   
+}
+
+.computer-img {width: 25%;
+    float: right;
+    margin-left: 50px;
+}
+
+.footer-link {color: #ffffff ;}
+
+.btn {
+    background: #0e2230;
+    background-image: -webkit-linear-gradient(top, #0e2230, #4fa2d6);
+    background-image: -moz-linear-gradient(top, #0e2230, #4fa2d6);
+    background-image: -ms-linear-gradient(top, #0e2230, #4fa2d6);
+    background-image: -o-linear-gradient(top, #0e2230, #4fa2d6);
+    background-image: linear-gradient(to bottom, #0e2230, #4fa2d6);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #0c2636;
+    background-image: -webkit-linear-gradient(top, #0c2636, #1c945a);
+    background-image: -moz-linear-gradient(top, #0c2636, #1c945a);
+    background-image: -ms-linear-gradient(top, #0c2636, #1c945a);
+    background-image: -o-linear-gradient(top, #0c2636, #1c945a);
+    background-image: linear-gradient(to bottom, #0c2636, #1c945a);
+    text-decoration: none;
+  }
+
+  .copyright {color: #ffffff;
+font-size: 0.75rem;
+padding: 20px 0;}
+
+.bonus{border-style: none;
+    border-top-style:dotted;
+    border-color:#11999E ;
+    border-width: 5px;
+    width:5%}
